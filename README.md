@@ -1,5 +1,11 @@
 ### Hi there 👋:rice_ball:
 
+## Qiita
+https://qiita.com/Yurika0916
+
+## Twitter
+https://twitter.com/home?lang=ja
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mutta0916&count_private=true&show_icons=true" />
 </a>
