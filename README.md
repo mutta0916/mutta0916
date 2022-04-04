@@ -1,9 +1,9 @@
 ### Hi there 👋:rice_ball:
 
-## Qiita
+#### Qiita
 https://qiita.com/Yurika0916
 
-## Twitter
+#### Twitter
 https://twitter.com/home?lang=ja
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
