@@ -3,9 +3,6 @@
 #### Qiita
 https://qiita.com/Yurika0916
 
-#### Twitter
-https://twitter.com/yurika0916_
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mutta0916&count_private=true&show_icons=true" />
 </a>
